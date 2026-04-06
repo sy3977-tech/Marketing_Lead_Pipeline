@@ -28,8 +28,8 @@ pip install pandas plotly openpyxl
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/sy3977-tech/Marketing_Lead_Pipeline.git
+   cd Marketing_Lead_Pipeline
    ```
 
 2. Place `Sales_Lead_Dataset.xlsx` in the root directory.
@@ -113,9 +113,9 @@ Enrollment spikes sharply in late August (likely back-to-school), but "No Respon
 ## 📂 Repository Structure
 
 ```
-├── Marketing_Lead_Pipeline_Dashboard.ipynb   # Main analysis notebook
-├── Sales_Lead_Dataset.xlsx                   # Source data (not included — add your own)
-└── README.md                                 # This file
+├── Marketing_Lead_Pipeline_Dashboard.ipynb   
+├── Sales_Lead_Dataset.xlsx                  
+└── README.md                                 
 ```
 
 ---
