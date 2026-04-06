@@ -8,7 +8,7 @@ An exploratory data analysis and interactive dashboard built to help the marketi
 
 | Item | Detail |
 |---|---|
-| **Dataset** | `Sales_Lead_Dataset.xlsx` |
+| **Dataset** | `Sales_Lead_Dataset.xlsx`（not included, company privacy） |
 | **Notebook** | `Marketing_Lead_Pipeline_Dashboard.ipynb` |
 | **Tools** | Python, Pandas, Plotly Express, Google Colab |
 | **Total Leads Analyzed** | 401 |
@@ -32,7 +32,7 @@ pip install pandas plotly openpyxl
    cd Marketing_Lead_Pipeline
    ```
 
-2. Place `Sales_Lead_Dataset.xlsx` in the root directory.
+2. Place `Sales_Lead_Dataset.xlsx（not included, company privacy）` in the root directory.
 
 3. Open the notebook:
    ```bash
@@ -114,7 +114,7 @@ Enrollment spikes sharply in late August (likely back-to-school), but "No Respon
 
 ```
 ├── Marketing_Lead_Pipeline_Dashboard.ipynb   
-├── Sales_Lead_Dataset.xlsx                  
+├── Sales_Lead_Dataset.xlsx(（not included, company privacy）)                  
 └── README.md                                 
 ```
 
@@ -132,5 +132,5 @@ Enrollment spikes sharply in late August (likely back-to-school), but "No Respon
 
 ## 📝 Notes
 
-- The `Sales_Lead_Dataset.xlsx` file is **not included** in this repository. Place your own copy in the root directory before running the notebook.
+- The `Sales_Lead_Dataset.xlsx` file is **not included** in this repository. 
 - All visualizations are interactive (zoom, hover, filter) when run in a Jupyter or Colab environment.
