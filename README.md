@@ -32,7 +32,7 @@ pip install pandas plotly openpyxl
    cd Marketing_Lead_Pipeline
    ```
 
-2. Place `Sales_Lead_Dataset.xlsx（not included, company privacy）` in the root directory.
+2. Place your own `Sales_Lead_Dataset.xlsx` in the root directory.
 
 3. Open the notebook:
    ```bash
@@ -114,7 +114,7 @@ Enrollment spikes sharply in late August (likely back-to-school), but "No Respon
 
 ```
 ├── Marketing_Lead_Pipeline_Dashboard.ipynb   
-├── Sales_Lead_Dataset.xlsx(（not included, company privacy）)                  
+├── Sales_Lead_Dataset.xlsx（not included, company privacy）                 
 └── README.md                                 
 ```
 
